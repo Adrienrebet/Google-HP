@@ -1,0 +1,19 @@
+html {height: 100%;width: 100%;}
+#container {display: flex;justify-content: flex-end;white-space: normal;}
+a {text-decoration: none;color: rgba(0,0,0,0.87);font-size: 12pt;}
+#Gmail {justify-content: flex-end;margin-top:4pt;font-size: 15pt ;}
+#Images{justify-content: flex-end;margin-top:4pt;font-size: 15pt ;}
+#Menu {justify-self: center;align-self: flex-end; }
+#Connexion {justify-self: center;align-self: flex-end;background-color: #4683ea;height: 30px;width: 90px;line-height: 30px;text-align: centeR;color: white;font-weight: bold; border: 1px solid #4285f4;margin-right: 5pt; font-size: 15pt;}
+.box{border: 0.1px solid #0000; height: 800pt;width: 30pt;box-shadow: 1px 1px 5px #888888;border-radius: 40px;font-size: 25cm;}
+.texte-recherche{margin-left: 15px;width: 500px;height: 25px;outline: none;background: transparent;border: none;font-size: 50px;top: 60%;}
+.micro{float: right;width: 30px;height: 30px;display: flex;justify-content: center;align-items: center;}
+.logo-google{position: absolute;top: 20pt;left: 20pt;transform: translate(-50%,-50%)aligne center}
+.logo{padding-bottom: 250px;}#
+#flexbox {display: flexbox;grid-area: flexbox;justify-self: center;align-self: center;margin-top: 0%;margin-bottom: 0%;size:150px}#
+#vr{background: transparent;size: 100pt;}
+#Pays {border: outset rgb(206, 202, 202);background-color:  rgb(206, 202, 202);margin-top: 97% ;}
+#footer{display: flex;flex-direction:row;border: outset rgb(206, 202, 202);background-color: rgb(206, 202, 202); font-size: 12pt; font-family: Arial, Helvetica, sans-serif; }
+#Pub,#Entreprise,#Apropos, #Comment{ display: flex;flex-wrap: wrap;justify-content: flex-start;}
+#Infoc,#Confidentialité,#Conditions,#Paramètres{display: flex; flex-wrap: wrap;justify-content: flex-end;}
+
